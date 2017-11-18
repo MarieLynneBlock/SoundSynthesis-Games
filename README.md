@@ -10,15 +10,3 @@ Introduces the basics of Digital Signal Processing and computational acoustics, 
 
 -----
 
-## Learning Outcomes
-### 1. ChucK
-- Computer Programming  
-    programming concepts including conditional statements (Booleans), variables, control structures, functions and arrays.
-    
-- Objects, Classes, Concurrency, and Events  
-    Ability to use class/objects in coding technique  
-      
-    Ability to use multi-threading in code to run multiple processes concurrently towards accomplishing a computer task.
-    
-- Sound Design  
-    Ability to use programming to create sonic landscapes, compositions, melodies and rhythmic pieces in a creative way.
