@@ -1,5 +1,8 @@
 # Sound Synthesis for Games and Interactive Systems
 
+Introduces the basics of Digital Signal Processing and computational acoustics, motivated by the vibrational physics of real-world objects and systems. We build anything from a simple mass-spring and pendulum to demonstrate oscillation, demostrate how to simulate those systems in the computer, and also prove that these simple oscillations behave as a sine wave. From that we move to plucked strings and struck bars, showing both solutions as combined traveling waves and combined sine wave harmonics. Then it continues by building and simulate more complex systems containing many vibrating objects and resonators (stringed instruments, drum, plate), and also show how to simulate echos and room reverberation. Through this process, we will learn to understand all about digital signals, filters, oscillators, harmonics, spectral analysis, linear and non-linear systems, particle models, and all the necessary building blocks to synthesize essentially any sound.
+
+
 ## Build Up
 
 
