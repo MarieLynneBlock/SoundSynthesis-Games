@@ -23,7 +23,7 @@ __1.8 : Live Control: Keyboard, Mouse, MIDI & OSC__
 
 
 ### 2. Digital Sound Synthesis
-__2.1 : The Time Domain: Sound, Digital Audio, PCM Files, Noise Vs. Pitch, A Hint Of Spectra__
+__2.1 : The Time Domain: Sound, Digital Audio, PCM Files, Noise Vs. Pitch, A Hint Of Spectra__  
     - Sound in Air, Traveling Waves  
     - Digital Audio, Sampling  
     - Quantization, Aliasing  
