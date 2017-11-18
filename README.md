@@ -31,10 +31,10 @@ __2.1 : The Time Domain: Sound, Digital Audio, PCM Files, Noise Vs. Pitch, A Hin
     - Pitch (vs. Noise), Spectral Analysis 0.1  
     - Time-domain Pitch/Noise Detection: ZeroXings, AMDF, Autocorrelation    
     
-__2.2 : Physics, Oscillators, Sines & Spectra, Spectral/Additive Synthesis__
-    Mass-Spring-Damper system, simple Pendulum  
-    Fourier analysis/synthesis, Spectrum Analysis 1.0  
-    More on additive Sine-wave synthesis  
+__2.2 : Physics, Oscillators, Sines & Spectra, Spectral/Additive Synthesis__  
+    - Mass-Spring-Damper system, simple Pendulum   
+    - Fourier analysis/synthesis, Spectrum Analysis 1.0  
+    - More on additive Sine-wave synthesis  
   
 __2.3 : Digital Filters, Modal Synthesis__
   - Digital Filters, Finite Impulse Response (FIR)
