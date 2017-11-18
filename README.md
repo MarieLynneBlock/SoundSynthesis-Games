@@ -32,16 +32,16 @@ __2.1 : The Time Domain: Sound, Digital Audio, PCM Files, Noise Vs. Pitch, A Hin
     - Time-domain Pitch/Noise Detection: ZeroXings, AMDF, Autocorrelation    
     
 __2.2 : Physics, Oscillators, Sines & Spectra, Spectral/Additive Synthesis__  
-    - Mass-Spring-Damper system, simple Pendulum   
+    - Mass-Spring-Damper system, simple Pendulum  
     - Fourier analysis/synthesis, Spectrum Analysis 1.0  
     - More on additive Sine-wave synthesis  
   
 __2.3 : Digital Filters, Modal Synthesis__
-  - Digital Filters, Finite Impulse Response (FIR)
-  - Linearity, Time-invariance, Convolution
-  - Infinite Impulse Response (IIR) Digital Filters
-  - BiQuad Resonator Filter, Modal Synthesis  
-    
+    - Digital Filters, Finite Impulse Response (FIR)  
+    - Linearity, Time-invariance, Convolution  
+    - Infinite Impulse Response (IIR) Digital Filters  
+    - BiQuad Resonator Filter, Modal Synthesis  
+    
 __2.4 : Physical Modeling Synthesis I: 1D Systems__
   - 1D systems, Strings, Modal (Fourier) Solution
   - Strings II: Waveguide (D’Alembert) Solution
