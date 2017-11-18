@@ -12,21 +12,29 @@ Introduces the basics of Digital Signal Processing and computational acoustics, 
 
 ## Build Up
 ### 1. ChucK Programming
+__1.1 : Basics: Sound, Waves, And ChucK Programming__
+__1.2 : Libraries And Arrays__
+__1.3 : Sound File Manipulation__
+__1.4 : Functions__
+__1.5 : Unit Generators And Physical Models__
+__1.6 : Multi-Threading And Concurrency__
+__1.7 : Objects And Classes__
+__1.8 : Live Control: Keyboard, Mouse, MIDI & OSC__
 
 
 ### 2. Digital Sound Synthesis
 __2.1 : The Time Domain: Sound, Digital Audio, PCM Files, Noise Vs. Pitch, A Hint Of Spectra__
-  - Sound in Air, Traveling Waves
-  - Digital Audio, Sampling
-  - Quantization, Aliasing
-  - Soundfiles, Wavetables, Manipulating PCM
-  - Pitch (vs. Noise), Spectral Analysis 0.1
-  - Time-domain Pitch/Noise Detection: ZeroXings, AMDF, Autocorrelation  
+  Sound in Air, Traveling Waves  
+  Digital Audio, Sampling  
+  Quantization, Aliasing  
+  Soundfiles, Wavetables, Manipulating PCM  
+  Pitch (vs. Noise), Spectral Analysis 0.1  
+  Time-domain Pitch/Noise Detection: ZeroXings, AMDF, Autocorrelation    
     
 __2.2 : Physics, Oscillators, Sines & Spectra, Spectral/Additive Synthesis__
-  - Mass-Spring-Damper system, simple Pendulum
-  - Fourier analysis/synthesis, Spectrum Analysis 1.0
-  - More on additive Sine-wave synthesis  
+  Mass-Spring-Damper system, simple Pendulum  
+  Fourier analysis/synthesis, Spectrum Analysis 1.0  
+  More on additive Sine-wave synthesis  
   
 __2.3 : Digital Filters, Modal Synthesis__
   - Digital Filters, Finite Impulse Response (FIR)
@@ -35,10 +43,10 @@ __2.3 : Digital Filters, Modal Synthesis__
   - BiQuad Resonator Filter, Modal Synthesis  
     
 __2.4 : Physical Modeling Synthesis I: 1D Systems__
-  \- 1D systems, Strings, Modal (Fourier) Solution
-  \- Strings II: Waveguide (D’Alembert) Solution
-  \- 1D systems, Bars, Tubes, solutions
-  \- Advanced Waveguide Synthesis for 1D systems
+  - 1D systems, Strings, Modal (Fourier) Solution
+  - Strings II: Waveguide (D’Alembert) Solution
+  - 1D systems, Bars, Tubes, solutions
+  - Advanced Waveguide Synthesis for 1D systems
   
 __2.5 : Physical Modeling II: 2D And 3D Systems__ 
   - 2D systems, plates, drums, higher-order modes Fourier (Sine and/or Modal) Solutions, Waveguide Solutions
