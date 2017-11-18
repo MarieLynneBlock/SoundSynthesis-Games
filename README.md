@@ -11,8 +11,10 @@ Introduces the basics of Digital Signal Processing and computational acoustics, 
 -----
 
 ## Build Up
+### 1. ChucK Programming
 
 
+### 2. Digital Sound Synthesis
 __2.1 : The Time Domain: Sound, Digital Audio, PCM Files, Noise Vs. Pitch, A Hint Of Spectra__
   - Sound in Air, Traveling Waves
   - Digital Audio, Sampling
@@ -33,10 +35,10 @@ __2.3 : Digital Filters, Modal Synthesis__
   - BiQuad Resonator Filter, Modal Synthesis  
     
 __2.4 : Physical Modeling Synthesis I: 1D Systems__
-  - 1D systems, Strings, Modal (Fourier) Solution
-  - Strings II: Waveguide (D’Alembert) Solution
-  - 1D systems, Bars, Tubes, solutions
-  - Advanced Waveguide Synthesis for 1D systems
+  \- 1D systems, Strings, Modal (Fourier) Solution
+  \- Strings II: Waveguide (D’Alembert) Solution
+  \- 1D systems, Bars, Tubes, solutions
+  \- Advanced Waveguide Synthesis for 1D systems
   
 __2.5 : Physical Modeling II: 2D And 3D Systems__ 
   - 2D systems, plates, drums, higher-order modes Fourier (Sine and/or Modal) Solutions, Waveguide Solutions
