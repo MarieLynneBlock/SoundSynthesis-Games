@@ -36,17 +36,17 @@ __2.2 : Physics, Oscillators, Sines & Spectra, Spectral/Additive Synthesis__
     - Fourier analysis/synthesis, Spectrum Analysis 1.0  
     - More on additive Sine-wave synthesis  
   
-__2.3 : Digital Filters, Modal Synthesis__
+__2.3 : Digital Filters, Modal Synthesis__  
     - Digital Filters, Finite Impulse Response (FIR)  
     - Linearity, Time-invariance, Convolution  
     - Infinite Impulse Response (IIR) Digital Filters  
     - BiQuad Resonator Filter, Modal Synthesis  
-    
-__2.4 : Physical Modeling Synthesis I: 1D Systems__
-  - 1D systems, Strings, Modal (Fourier) Solution
-  - Strings II: Waveguide (D’Alembert) Solution
-  - 1D systems, Bars, Tubes, solutions
-  - Advanced Waveguide Synthesis for 1D systems
+      
+__2.4 : Physical Modeling Synthesis I: 1D Systems__  
+    - 1D systems, Strings, Modal (Fourier) Solution  
+    - Strings II: Waveguide (D’Alembert) Solution  
+    - 1D systems, Bars, Tubes, solutions  
+    - Advanced Waveguide Synthesis for 1D systems  
   
 __2.5 : Physical Modeling II: 2D And 3D Systems__ 
   - 2D systems, plates, drums, higher-order modes Fourier (Sine and/or Modal) Solutions, Waveguide Solutions
